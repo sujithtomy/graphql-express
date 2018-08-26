@@ -2,5 +2,5 @@
 GraphQL implementation with node Express
 
 Usage:
-npm install
+npm install, 
 npm start
